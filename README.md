@@ -11,7 +11,6 @@ Designed with a clean layout and smooth gameplay experience.
 
 ## 🌟 Features
 
-- 🎮 Play against the computer (Single Player)
 - 🧠 Smart move logic for the bot
 - 💡 Instant result display (Win, Lose, or Draw)
 - 📱 Mobile & desktop friendly design
