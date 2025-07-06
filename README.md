@@ -43,7 +43,10 @@ I'm **Akanksha Singh**, a web developer who loves building creative, fun, and in
 If you like this project, give it a **star ⭐** and share it with others!
 
 
-Tic-Tac-Toe-game/
+Tic-Tac-Toe-game
+
 ├── index.html → Main structure
+
 ├── style.css → Design and layout
+
 ├── script.js → Game logic
