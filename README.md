@@ -12,7 +12,7 @@ Designed with a clean layout and smooth gameplay experience.
 ## 🌟 Features
 
 - 🧠 Smart move logic for the bot
-- 💡 Instant result display (Win, Lose, or Draw)
+- 💡 Instant result display (Win, Lose)
 - 📱 Mobile & desktop friendly design
 - 🎨 Simple and clean UI
 
