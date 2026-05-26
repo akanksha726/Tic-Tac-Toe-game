@@ -1,5 +1,11 @@
 # Tic-Tac-Toe-game
 
+## 🚀 Live Demo
+
+👉 [Click here to play the game](https://ttt-akanksha.netlify.app/)
+
+---
+
 # 🎯 Tic Tac Toe Game
 
 A simple and fun **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
@@ -21,12 +27,6 @@ Designed with a clean layout and smooth gameplay experience.
 ## 📸 Preview
 
 ![Game Preview](https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif)
-
----
-
-## 🚀 Live Demo
-
-👉 [Click here to play the game](https://ttt-akanksha.netlify.app/)
 
 ---
 
